@@ -1,5 +1,5 @@
 # A-scoop-of-the-basics
-Just a submission on github. Some basic level infytq python programs
+Infytq Python Assignments
 
 Visit [Infytq On Wingspan](https://infytq.onwingspan.com/) for the Question set
 
